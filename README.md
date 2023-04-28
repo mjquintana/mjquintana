@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @mjquintana
-- 👀 I’m interested in becoming a Front End Web Developer!
-- 🌱 I’m currently learning HTML, CSS, Javascript, etc.
-- 💞️ I’m looking to collaborate on group projects creating website to practice my fundamentals and pushing code onto github.
+- 👀 I’m currently a Front End Web Developer and interested in Full-Stack!
+- 🌳 Proficient in HTML, CSS, Javascript, etc.
+- 🌱 I am currently learning Python and Java
+- 💞️ I’m looking to collaborate on group projects creating website to practice my fundamentals and pushing code onto Github.
 - 📫 How to reach me ...
 mjquintana94@gmail.com
 
