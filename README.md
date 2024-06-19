@@ -4,7 +4,7 @@
 - 🌱 I am currently learning Python and Java
 - 💞️ I’m looking to collaborate on group projects creating website to practice my fundamentals and pushing code onto Github.
 - 📫 How to reach me ...
-mjquintana94@gmail.com
+quintanaqjm@gmail.com
 
 <!---
 mjquintana/mjquintana is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
